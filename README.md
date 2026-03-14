@@ -1,0 +1,14 @@
+# Kudan-landing-page
+# Birnin-Gwari
+# Birnin-Gwari
+# chikun-lga
+# chikun-lga
+# chikun-lga
+# Giwa-lga
+# Igabi
+# Ikara-lga
+# jaba-lga
+# jame-a-lga
+# Kaura
+# kubau
+# lere
