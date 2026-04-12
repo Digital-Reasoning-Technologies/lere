@@ -25,7 +25,7 @@
         "subtitle": "Lere Local Government Area is known for its agricultural strength and historic landmarks, including the Lere Emirate with roots dating back to the pre-colonial Fulbe kingdom of Takrur."
       },
       {
-        "image": "/bg1.png",
+        "image": "/bg2.png",
         "title": "Lere – Communities Supporting Development",
         "subtitle": "Farmers and traders across Lere contribute significantly to food production and commerce in Kaduna State, with the area's agricultural prowess and traditional practices spanning many generations."
       }
@@ -52,7 +52,7 @@
       "Through collaboration with our communities and stakeholders, we will continue to pursue sustainable development across the LGA."
     ]
   },
-  "economy": {
+  "agriculture": {
     "sectionTitle": "Economy – Driving Agricultural Development",
     "cards": [
       {
@@ -100,8 +100,8 @@
     ],
     "copyright": "Lere Local Government. All rights reserved.",
     "socialLinks": [
-      { "platform": "facebook", "href": "https://www.facebook.com/p/The-Executive-Chairman-Lere-Local-Government-Council-100068294994865/" },
-      { "platform": "twitter", "href": "https://x.com/" }
+      { "name": "Facebook", "href": "https://www.facebook.com/p/The-Executive-Chairman-Lere-Local-Government-Council-100068294994865/", "icon": "facebook" },
+      { "name": "Twitter", "href": "https://x.com/officiallerelg?s=11", "icon": "twitter" }
     ]
   },
   "aboutPage": {
