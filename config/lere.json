@@ -219,6 +219,30 @@
       "role": "Traditional structures help maintain a balance between age-old customs and contemporary administrative practices, ensuring that the region's heritage remains vibrant and respected. The Emirs also play a vital role in local conflict prevention and mediation."
     }
   },
+  "projectsPage": {
+    "metadata": {
+      "title": "Projects | Lere Local Government",
+      "description": "Discover ongoing and completed projects developed by Lere Local Government Area"
+    },
+    "hero": {
+      "title": "Projects",
+      "subtitle": "Building a Better Community Together - Explore our projects infrastructure development initiatives.",
+      "image": "/bg1.png"
+    },
+    "introParagraph": "At Lere Local Government, we believe in transparency and community engagement. This page showcases our completed infrastructure projects that have been designed to improve local infrastructure and community services. We're committed to working closely with our citizens to ensure that every initiative meets the needs of our community."
+  },
+  "agriculturePage": {
+    "metadata": {
+      "title": "Agriculture | Lere Local Government",
+      "description": "Explore agriculture initiatives and projects in Lere Local Government Area"
+    },
+    "hero": {
+      "title": "Agriculture in Lere",
+      "subtitle": "Discover our agricultural heritage, modern farming practices, and the crops that make Lere a major agricultural hub.",
+      "image": "/bg1.png"
+    },
+    "overview": "Lere Local Government is a major agricultural hub in Kaduna State, blessed with fertile land, irrigation systems, and a favorable climate that supports both wet and dry season farming. The area's farming activities range from staple food production to cash crops and livestock rearing, making it a key contributor to food security and economic development in the State and beyond. Lere benefits from three major dams which facilitate year-round irrigation farming."
+  },
   "contactPage": {
     "hero": {
       "title": "Contact Us",
